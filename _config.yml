@@ -7,16 +7,16 @@
 
 # Site Settings
 title                    : "Hengchuang Yin"
-description              : "PhD at Peking university"
+description              : "Research Assistance at Peking university"
 repository               : "basehc/yinhengchuang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-ZM13D9XFQJ
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  Y2SnG_33ExMy-7ilvh2_Voc9OYVSLS_M3EHyxsH1FUU
+bing_site_verification   :  0B6614B2BE373DD6B309E2027BF92ACC
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
