@@ -46,14 +46,13 @@ I welcome the opportunity to listen to others and exchange ideas. Please feel fr
 # 🎖 Honors and Awards
 
 - *2024* Graduate Scholarship for Quantitative Biology, Peking University
-- *2024* Ph.D. Award for Quantitative Biology, Peking University
-- *2022* President's Scholarship, Peking University
+- *2024* Poster Award for Quantitative Biology, Peking University
+- *2022* Ph.D. President's Scholarship, Peking University
 - *2022* May Fourth Youth Science Award, Peking University Challenge Cup
 - *2019* Outstanding Graduate of Xiangtan City
-- *2017* Postal Savings Science Major Scholarship
-- *2016* National Encouragement Scholarship
-- *2015* Physics Competition, Xiangtan University
-
+- *2017* Shaofeng Foundation Scholarship for Foundational Sciences
+- *2016* National Scholarship
+- *2015* Physics Competition Award, Xiangtan University
 
 # 📖 Educations
 
@@ -63,12 +62,12 @@ I welcome the opportunity to listen to others and exchange ideas. Please feel fr
   - **Research Direction**: Bioinformatics  
   - **Advisor**: Professor Huaiqiu Zhu's Research Group
 
-- *2015.09 - 2019.06*, Bachelor’s Degree in Physics Shaofeng Program), School of Physics and Mechanical Engineering, Xiangtan University  
+- *2015.09 - 2019.06*, Bachelor’s Degree in Physics (Shaofeng Program), School of Physics and Optoelectronic Engineering, Xiangtan University  
   - **Research Direction**: Computational Physics  
-  - **Advisor**: Professor Jianxin Zhong's Research Group
+  - **Advisor**: Professor Jianxin Zhong's Research Group, **Changjiang Scholar**
 
 
 # 💬 Invited Talks
 
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.01* Annual Conference of the Center for Quantitative Biology, Peking University
+- *2019.01* Academic Presentation at the Hunan Provincial Physics Annual Conference (as an undergraduate)
