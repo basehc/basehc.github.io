@@ -23,10 +23,7 @@ My research lies at the intersection of Computational Biology and Artificial Int
 
 I welcome the opportunity to listen to others and exchange ideas. Please feel free to drop me an email if you would like to discuss anything with me! I am always open to collaboration.
 
-# 🔥 News
-
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 
 
 # 📝 Publications
 
@@ -48,16 +45,30 @@ I welcome the opportunity to listen to others and exchange ideas. Please feel fr
 
 # 🎖 Honors and Awards
 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Graduate Scholarship for Quantitative Biology, Peking University
+- *2024* Ph.D. Award for Quantitative Biology, Peking University
+- *2022* President's Scholarship, Peking University
+- *2022* May Fourth Youth Science Award, Peking University Challenge Cup
+- *2019* Outstanding Graduate of Xiangtan City
+- *2017* Postal Savings Science Major Scholarship
+- *2016* National Encouragement Scholarship
+- *2015* Physics Competition, Xiangtan University
+
 
 # 📖 Educations
 
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+
+- *2019.09 - 2024.12*, Ph.D. in Integrated Sciences (Physics), Center for Quantitative Biology, Peking University  
+  - **Research Direction**: Bioinformatics  
+  - **Advisor**: Professor Huaiqiu Zhu's Research Group
+
+- *2015.09 - 2019.06*, Bachelor’s Degree in Physics Shaofeng Program), School of Physics and Mechanical Engineering, Xiangtan University  
+  - **Research Direction**: Computational Physics  
+  - **Advisor**: Professor Jianxin Zhong's Research Group
+
 
 # 💬 Invited Talks
 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
