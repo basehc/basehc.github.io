@@ -41,7 +41,7 @@ I welcome the opportunity to listen to others and exchange ideas. Please feel fr
 - *2015* Physics Competition Award, Xiangtan University
 
 
-# 📖 Education
+# 📖 Educations
 
 - *2019.09 - 2024.12*, Ph.D. in Integrated Sciences (Physics), Center for Quantitative Biology, Peking University  
   - **Research Direction**: Bioinformatics  
