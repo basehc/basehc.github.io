@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hengchuang Yin"
+  name             : "Hengchuang Yin（尹衡闯）"
   avatar           : "images/avatar.png"
-  bio              : "bioinformatics"
+  bio              : "Bioinformatics"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
