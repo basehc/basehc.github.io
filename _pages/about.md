@@ -49,7 +49,7 @@ I welcome the opportunity to listen to others and exchange ideas. Please feel fr
 
 - *2015.09 - 2019.06*, Bachelor’s Degree in Physics (Shaofeng Program), School of Physics and Optoelectronic Engineering, Xiangtan University  
   - **Research Direction**: Computational Physics  
-  - **Advisor**: Professor Jianxin Zhong's Research Group, **Changjiang Scholar**
+  - **Advisor**: Professor [Jianxin Zhong's Research Group](https://scholar.google.com/citations?user=7XqsZO0AAAAJ&hl=en), **Changjiang Scholar**
 
 
 # 💬 Invited Talks
